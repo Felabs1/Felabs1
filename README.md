@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Felabs1
-- 👀 I’m interested in Software Engineering and AI
+- 👀 I’m interested in Software Engineering, AI and Blockchain development
 - 🌱 I’m currently pursuing a Bsc Major in Computer Science
 - 💞️ I’m looking to collaborate on more tough projects that make me academically motivated
 - 📫 How to reach me Contact +254 (111) 942081 || +254 (731) 862583
