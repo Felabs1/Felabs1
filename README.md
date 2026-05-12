@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Felix Awere** (`@Felabs1`)  
-💻 Software Engineer focused on **Blockchain (Cairo/Starknet)**, AI, and systems-level development  
+💻 Full Stack Blockchain Developer
 🎓 BSc Computer Science  
 
 • **Top Cairo contributor in Kenya** (Stardev ranking, GitHub-based)  
