@@ -4,7 +4,7 @@
 💻 Full Stack Blockchain Developer
 🎓 BSc Computer Science  
 
-• **Top Cairo contributor in Kenya** (Stardev ranking, GitHub-based)  
+• **Top Cairo contributor in Kenya** (Stardev ranking)  
 • Founder & Lead Developer at **StarkZuri**  
 • Interested in building hard, meaningful systems that push my technical depth  
 
