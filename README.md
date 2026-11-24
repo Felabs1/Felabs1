@@ -9,7 +9,8 @@
 • Interested in building hard, meaningful systems that push my technical depth  
 
 📫 Reach me:  
-+254 111 942081 | +254 731 862583
+email: felixawere01@gmail.com
+telegram: https://t.me/felabs1
 
 ---
 
